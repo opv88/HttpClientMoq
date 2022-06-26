@@ -10,9 +10,12 @@
     <PackageId>HttpClientMoq</PackageId>
     <Description>Package to mock HttpClient requests.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <ProjectUrl>https://pavel-orlov.com</ProjectUrl>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <ProjectUrl>https://github.com/opv88/HttpClientMoq</ProjectUrl>
+    <PackageProjectUrl>https://pavel-orlov.com</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/opv88/HttpClientMoq</RepositoryUrl>
+    <PackageTags>HttpClientMoq HttpClient Mock Request</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
